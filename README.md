@@ -1,6 +1,6 @@
 <h1 align="center"> Deep Learning </h1>
 
-All Projects and Coursework related to Deep Learning:
+All Projects and Coursework related to Deep Learning: 
 
 ### 1. Age-Regression:
 The task is to infer the age of a person given a potrait picture of him or her. Intuitively this task seems to be easy at first, you are shown a potrait of a person and need to estimate his or her age. But implementing such an estimator on a computer is rather challenging. If you want to use a model based machine learning algorithm, you would need some sort of model or set of rules, which maps the raw pixel values of an image to an estimated age. This would require a lot of expert knowledge and feature design. Fortunately we can use neural networks to learn such a mapping directly from annotated examples, i.e. potraits labeled with the age of the person in the picture. In this way we just need enough examples and don't have to design the probably very complex mapping from pixels to age ourselves.

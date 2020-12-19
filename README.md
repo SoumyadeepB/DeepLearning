@@ -8,7 +8,7 @@ The task is to infer the age of a person given a potrait picture of him or her. 
  ![AgeRegression](https://user-images.githubusercontent.com/12089275/90393239-a23c6180-e090-11ea-91b8-d5e0176de857.png)
 
 
-### 2. Classification Task:
+### 2. Classification Task: 
 The task is to classify a handwritten digit, the labels y for each image are from the set {0,1,...,9}. The FashionMNIST data set is very similar to MNIST it also has approximately the same number of images with exactly the same dimensions as MNIST. It was provided by Zalando research and contains 10 classes of different fashion objects.
 
  ![Classification_task](https://user-images.githubusercontent.com/12089275/90393243-a4062500-e090-11ea-9315-0faa79b62a39.png)

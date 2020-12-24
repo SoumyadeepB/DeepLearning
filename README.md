@@ -1,4 +1,4 @@
-<h1 align="center"> Deep Learning </h1>
+<h1 align="center"> Deep Learning </h1> 
 
 All Projects and Coursework related to Deep Learning:  
 

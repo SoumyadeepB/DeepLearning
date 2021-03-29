@@ -20,6 +20,6 @@ We'll use the IMDB dataset that contains the text of 50,000 movie reviews from t
 
 
 ### 4. Deep Convolutional Generative Adversarial Network (DC-GAN): 
-In this project, we create a miniature Deep Convolutional Generative Adversarial Network (DC-GAN) framework for the generation of MNIST digits. The goal is to bridge the gap between the theoretical concept and the practical implementation of GANs.
+In this project, a miniature Deep Convolutional Generative Adversarial Network (DC-GAN) framework is created for the generation of MNIST digits. The goal is to bridge the gap between the theoretical concept and the practical implementation of GANs.
 
 ![alt-text](https://github.com/SoumyadeepB/DeepLearning/blob/master/DC_GAN/dcgan.gif)
